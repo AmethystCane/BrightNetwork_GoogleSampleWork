@@ -1,4 +1,4 @@
-# Google Sample Work
+## Google Sample Work
 
 Work sample from Brighton Network's Internship Experience UK 2021: Technology! 🎊
 
